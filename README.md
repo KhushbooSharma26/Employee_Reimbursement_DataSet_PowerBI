@@ -1,4 +1,4 @@
-Steps to Follow
+Steps to Follow:
 
 Import the data and open the Power Query
 The expense type column has some spelling and punctuation errors, correct them
